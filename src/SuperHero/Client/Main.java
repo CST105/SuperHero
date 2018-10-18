@@ -45,9 +45,7 @@ public class Main {
 
 		Main m = new Main();
 		m.createSuperman();
-		m.createBatman();
-		System.out.println("Made some changes to test Git!");
-		
+		m.createBatman();		
 		
 	}
 
